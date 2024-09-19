@@ -1,0 +1,10 @@
+C:\Users\kalen\source\repos\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\kalen\source\repos\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\kalen\source\repos\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\kalen\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csprojAssemblyReference.cache
+C:\Users\kalen\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.FormGame.resources
+C:\Users\kalen\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\kalen\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\kalen\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\kalen\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\kalen\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
